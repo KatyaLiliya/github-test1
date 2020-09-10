@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.phone {
+    color:#d5b884;
+    font-family: 'Roboto', sans-serif;
+}
+.row {
+    padding-top: 20px;
+}
+.social-media {
+    margin: 5px;
+}
+section#main {
+    background: url(../img/3.jpg);
+    height:1100px;
+}
+.wrap {
+    display: flex;
+}
+img#logo-hotel {
+    width: 160px;
+}
+.header {
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+    text-transform: uppercase;
+}
+.header-form h2 {
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+.main-form {
+    background: rgba(255, 255, 255, 0.47);
+}
